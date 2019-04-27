@@ -16,9 +16,11 @@ A typical round for each piece of content will have:
 
 - A five minute reading by the learner who contributed the content
 - Pre-determined questions put out to the rest of the group. Either:
-  1. Each learner writes down their answers within 5 minutes and each one then presents their answers in succession or
+  1. Each learner writes down their answers within five minutes and each one then presents their answers in succession or
   2. The learners have a group discussion on the questions asked
 - Translation challenge - The learner unleashes a sentence in the source language that everyone in the group has a minute (or less) to translate. At the end of the minute, the results are collated and the learners vote for the most ideal translation.
+
+An ideal group size would be around 6. If each round lasts about 15 - 20 minutes, the session would go on for about 2 hours.
 
 ## Preparation
 
@@ -28,9 +30,12 @@ Every learner should ideally compile the following into a document and make it a
 - Vocabulary list with meaning
 - Kanji list with meaning (doesn't need to have all readings mentioned - only the reading in the text is plenty)
 
-
 ## Tech Interaction
 
 - Learners vote in the translation challenge through a simple web app running in the browser
 - A lapel mic is attached to each learner and everything is recorded and made available online
+
+## Outcome
+
+The motivation for j-collective is to not just broaden the way we consume, digest and think about Japanese content, but to also be creative in the process. We will make mistakes. Our grammar will be appallingly incorrect. Our word choices will be おかしい. But we will learn.
 
